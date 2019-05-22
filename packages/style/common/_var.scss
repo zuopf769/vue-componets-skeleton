@@ -1,0 +1,84 @@
+// 全局/品牌色
+$brand-primary: #4E73FF !default;
+$brand-success: #6abf47 !default;
+$brand-warning: #FF8C28 !default;
+$brand-danger: #f4333c !default;
+$brand-info: #5bc0de !default;
+
+// 灰度
+$gray: #999999 !default;
+$gray-base: #000000 !default;
+$gray-darker: #333333 !default;
+$gray-dark: #666666 !default;
+$gray-light: #aaaaaa !default;
+$gray-lighter: #cccccc !default;
+$gray-lightest: #eeeeee !default;
+
+// 橙色
+$orange: #FFA000;
+
+// 背景色
+$fill-base: #ffffff;               // 组件默认背景
+$fill-gray: #f7f7f7;
+$fill-body: #f5f5f9;               // 页面背景
+$fill-mask: rgba(0, 0, 0, .3);     // 遮罩背景
+
+
+// 文字色
+$color-primary: #4E73FF!default;                    // 主色
+$color-text-base: #000000 !default;                 // 基本
+$color-text-base-inverse: #ffffff !default;         // 基本  反色
+$color-text-secondary: #a4a9b0 !default;            // 辅助色
+$color-text-placeholder: #bbbbbb !default;          // 文本框提示
+$color-text-disabled: #bbbbbb !default;             // 失效
+$color-text-caption: #888888 !default;              // 辅助描述
+$color-text-paragraph: #333333 !default;            // 段落
+$color-link: #108ee9 !default;                      // 链接
+
+
+// Button
+$button-font-size: 18px !default;
+$button-height: 44px !default;
+$button-padding-horizontal: 57px !default;
+$button-border-radius: 2px !default;
+$button-round-border-radius: 10em !default;
+$button-disabled-opacity: .5 !default;
+$button-active-opacity: .5 !default;
+$button-loading-opacity: .8 !default;
+
+$button-default-color: #666666 !default;
+$button-default-background-color: #fff !default;
+$button-default-active-color: #F0F0F0 !default;
+$button-default-border-radius: $button-border-radius !default;
+$button-default-border-color: #cccccc !default;
+$button-default-disabled-border-color: #cccccc !default;
+
+$button-success-color: #fff !default;
+$button-success-color: #fff !default;
+
+$button-success-color: #fff !default;
+$button-success-background-color: #6ABF47 !default;
+$button-success-active-background-color: #6ABF47 !default;
+
+$button-warning-color: #fff !default;
+$button-warning-background-color: #FF8C28 !default;
+$button-warning-active-background-color: #FF8C28 !default;
+
+$button-danger-color: #fff !default;
+$button-danger-background-color: #F4333C !default;
+$button-danger-active-background-color: #F4333C !default;
+
+$button-primary-color: #ffffff !default;
+$button-primary-background-color: #4E73FF !default;
+$button-primary-active-color: #5476F0 !default;
+$button-primary-color: #fff !default;
+$button-primary-background-color: #2B5799 !default;
+$button-primary-disabled-background-color: #cccccc !default;
+
+$button-text-primary-color: #4E73FF !default;
+$button-text-primary-active-color: #5476F0 !default;
+$button-text-primary-padding-horizontal: 10px !default;
+
+$button-loading-icon-font-size: 20px !default;
+$button-loading-padding-horizontal: 40px !default;
+$button-icon-padding-horizontal: 23px !default;

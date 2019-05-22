@@ -1,0 +1,16 @@
+@import './common/var';
+@import './mixins/button';
+
+
+.jtd-button {
+    @include reset-btn();
+    position: relative;
+    height: $button-height;
+    font-size: $button-font-size;
+    padding: 0 $button-padding-horizontal;
+    border-radius: $button-border-radius;
+
+    &:active {
+        opacity: $button-active-opacity;
+    }
+}
